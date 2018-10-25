@@ -1,0 +1,19 @@
+.main h1 {
+	text-align: center;
+}
+
+.main img {
+	display: block;
+	margin: 100px auto;
+}
+
+.my-image {
+	height: 500px;
+}
+
+.controls {
+	position: fixed;
+	display: block;
+	margin: 100px auto;
+	height: 100px;
+}
